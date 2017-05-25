@@ -2,6 +2,7 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="Imports Wizard Entry" name="http://xmlns.com/foaf/0.1/" uri="http://xmlns.com/foaf/spec/20140114.rdf"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1495154318431" name="http://www.semanticweb.org/mlimaxavier/ontologies/2017/4/products" uri="products-aval.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1495731359618" name="http://www.co-ode.org/ontologies/pizza/pizza.owl" uri="Material%20de%20Apoio/pizza.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1495731359618" name="http://www.semanticweb.org/mlimaxavier/ontologies/2017/4/products" uri="products-aval.owl"/>
     </group>
 </catalog>

@@ -12,6 +12,8 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://www.semanticweb.org/mlimaxavier/ontologies/2017/4/products">
         <owl:imports rdf:resource="http://xmlns.com/foaf/0.1/"/>
+        <owl:versionInfo xml:lang="pt_br">v0.1 - Início do versionamento e comentários do projeto.</owl:versionInfo>
+        <rdfs:comment xml:lang="pt_br">Projeto de ontologia de avaliação de produtos de e-commerce.</rdfs:comment>
     </owl:Ontology>
     
 
